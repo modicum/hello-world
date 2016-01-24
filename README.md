@@ -7,14 +7,22 @@ The decentralized organization of information for local to global public decisio
 
 Core concepts
 
+
 Define terms with examples
+
 Modular design
+
 Mapping organization and information in the GitHub repository, postgresql database (schema and tables), webpages...
+
   Documentation
+
   Testing
+
   ...
   
+
 Prioritized objectives
+
 
 Current
 

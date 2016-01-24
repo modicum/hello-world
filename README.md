@@ -10,6 +10,9 @@ Core concepts
 
 Define terms with examples
 
+roles, division of labor, and general accessibility
+
+
 Modular design
 
 Mapping organization and information in the GitHub repository, postgresql database (schema and tables), webpages...
@@ -27,3 +30,4 @@ Prioritized objectives
 Current
 
 Focus on some visual conceptual examples with how-to explanations to help get people involved. 
+work-flows (gantt charts)
